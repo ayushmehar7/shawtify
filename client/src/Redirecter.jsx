@@ -24,6 +24,13 @@ const Redirecter = ()=>{
                 <div className="card-header text-center py-3">
                     <h2>Thank You for using Shawtify <i className="fas fa-link px-2" /></h2>
                 </div>
+                <div className="card-body text-center">
+                    <div id="wave">
+                        <span className="dot"></span>
+                        <span className="dot"></span>
+                        <span className="dot"></span>
+                    </div>
+                </div>
             </div>
         </div>
     )
